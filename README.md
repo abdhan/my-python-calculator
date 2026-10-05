@@ -12,4 +12,4 @@ A basic calculator program that shows all four math operations.
 python calculator.py
 
 ## Author
-Created by [Your Name] as part of learning Git and GitHub.
+Created by AbdHan as part of learning Git and GitHub.
