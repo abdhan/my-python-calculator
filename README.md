@@ -1,12 +1,18 @@
 # Simple Python Calculator
 
-A basic calculator program that shows all four math operations.
+A calculator program with normal and fun modes!
 
 ## Features
+### Normal Mode
 - Addition (+)
 - Subtraction (-)
 - Multiplication (×)
 - Division (÷)
+
+### Fun Mode
+- Same calculations with colourful emojis! 🎉
+- Special messages based on your numbers
+- Fun borders and styling
 
 ## How to Run
 python calculator.py
